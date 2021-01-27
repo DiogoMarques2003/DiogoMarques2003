@@ -53,5 +53,12 @@
 
 </details> 
 
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+  <img src="https://github-readme-stats-lake-nine.vercel.app/api/top-langs/?username=DiogoMarques2003&theme=dracula&layout=compact&langs_count=8" />
+
+</details> 
+
 [instagram]: https://instagram.com/diogomarques.08.10
 [discord]: https://discord.com/users/327332773108908032

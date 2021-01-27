@@ -52,7 +52,7 @@
   <img align="left" alt="Diogo GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DiogoMarques2003&count_private=true&show_icons=true&theme=dracula" />
 
 </details> 
-<br />
+
 <details>
   <summary>:zap: Most Used Languages</summary>
 

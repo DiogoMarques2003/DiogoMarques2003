@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Diogo Spotify Playing" width="350" />](https://open.spotify.com/user/21adcgopfuxifyqejpgnc7fcy)
+[<img src="https://spotify-now-playing-steel.vercel.app/api/spotify-playing" alt="Diogo Spotify Playing" width="350" />](https://open.spotify.com/user/21adcgopfuxifyqejpgnc7fcy)
 
 
 ### Connect with me:

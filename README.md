@@ -1,5 +1,11 @@
 ### Hi there, I'm Diogo  👋
 
+<div>
+  <a href="https://github.com/DiogoMarques2003">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoMarques2003&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoMarques2003&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+<div>
 
 ## I'm a Developer and Gamer!!
 
@@ -47,19 +53,7 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Diogo GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DiogoMarques2003&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-
-</details> 
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-  <img src="https://github-readme-stats-lake-nine.vercel.app/api/top-langs/?username=DiogoMarques2003&count_private=true&theme=dracula&layout=compact&langs_count=8" />
-
-</details> 
+![Snake animation](https://github.com/DiogoMarques2003/DiogoMarques2003/blob/output/github-contribution-grid-snake.svg)
 
 [instagram]: https://instagram.com/diogomarques.08.10
 [discord]: https://discord.com/users/327332773108908032

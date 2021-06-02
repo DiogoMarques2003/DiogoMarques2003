@@ -26,6 +26,7 @@
 [<img align="left" alt="Diogo | Discord" width="22px" src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/discord.svg" width="50" height="50" />][discord]
 
 <br />
+<br />
 
 ### 🔨Languages and Tools:
 

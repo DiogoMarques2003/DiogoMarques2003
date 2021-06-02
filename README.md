@@ -42,13 +42,13 @@
 <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/java.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/visual-studio-code.svg" alt="vscode" width="40" height="40"/> </a> 
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/visual-studio.svg" alt="visual studio" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
 
 <p align="left"> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/mysql.png" alt="mysql" width="70"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/?hl=pt-br" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/firebase.svg" alt="firebase" width="30"/> </a> 
-<a href="https://docs.mongodb.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/mongodb.svg" alt="mongoDB" width="40" height="40"/> </a>
+<a href="https://docs.mongodb.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/mongodb.svg" alt="mongoDB" width="70" height="40"/> </a>
 <a href="https://insomnia.rest" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/postman.svg" alt="Postman" width="40" height="40"/> </a>
 <a href="https://www.postman.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/insomnia.svg" alt="insomnia" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/git.svg" alt="git" width="40" height="40"/> </a>

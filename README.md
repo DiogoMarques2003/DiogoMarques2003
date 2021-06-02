@@ -43,14 +43,19 @@
 </p>
 
 <p align="left"> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/?hl=pt-br" target="_blank"> <img src="https://appmasters.io/static/firebase-logo-c24b6b9c0fcd84c7b258879880472660.png" alt="firebase" width="30"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://i.imgur.com/7PKKTtr.png" alt="mysql" width="70"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/> </a> 
-<a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://imgur.com/nh1f9eZ.png" alt="visual studio" width="40" height="40"/> </a> 
-<a href="https://hyper.is/" target="_blank"> <img src="https://raw.githubusercontent.com/zeit/art/master/hyper/mark/Hyper-Mark-120@3x.png" alt="hyper" width="40" height="40"/> </a> 
-<a href="https://www.sublimetext.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="sublime" width="40" height="40"/> </a> 
-<a href="https://insomnia.rest" target="_blank"> <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/visual-studio-code.svg" alt="vscode" width="40" height="40"/> </a> 
+<a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/visual-studio.svg" alt="visual studio" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/mysql.png" alt="mysql" width="70"/> </a> 
+<a href="https://nodejs.org" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/?hl=pt-br" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/firebase.svg" alt="firebase" width="30"/> </a> 
+<a href="https://docs.mongodb.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/mongodb.svg" alt="mongoDB" width="40" height="40"/> </a>
+<a href="https://insomnia.rest" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/postman.svg" alt="Postman" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/insomnia.svg" alt="insomnia" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/git.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/github-icon.svg" alt="github" width="40" height="40"/> </a>
+<a href="https://www.sublimetext.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/sublimetext.svg" alt="sublime" width="40" height="40"/> </a> 
+<a href="https://hyper.is/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/hyper.svg" alt="hyper" width="40" height="40"/> </a> 
+<a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/spring-icon.svg" alt="spring" width="40" height="40"/> </a> 
 </p>
 
 

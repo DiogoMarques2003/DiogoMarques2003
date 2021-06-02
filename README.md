@@ -22,8 +22,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Diogo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Diogo | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="Diogo | Instagram" width="22px" src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/instagram-icon.svg" />][instagram]
+[<img align="left" alt="Diogo | Discord" width="22px" src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/discord.svg" />][discord]
 
 <br />
 

@@ -28,30 +28,22 @@
 <br />
 
 ### 🔨Languages and Tools:
-<img align="left" alt="Subline Text" width="26px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png" />
-<img align="left" alt="c#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
-<img align="left" alt="c" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
-<img align="left" alt="Visual Basic" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1024px-VB.NET_Logo.svg.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<br />
-<br />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Firebase" width="26px" src="https://firebase.google.com/images/brand-guidelines/logo-vertical.png" />
-<img align="left" alt="Cobol" width="26px" src="https://www.oriongovernance.com/wp-content/uploads/2019/11/Artboard-32.png" />
 
-<br />
-<br />
+<p align="left"> 
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/c-sharp.svg" alt="c#" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/html-5.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/css3.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/?hl=pt-br" target="_blank"> <img src="https://appmasters.io/static/firebase-logo-c24b6b9c0fcd84c7b258879880472660.png" alt="firebase" width="30"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://i.imgur.com/7PKKTtr.png" alt="mysql" width="70"/> </a> </p>
+
+<p align="left"> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/> </a> 
+<a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://imgur.com/nh1f9eZ.png" alt="visual studio" width="40" height="40"/> </a> 
+<a href="https://hyper.is/" target="_blank"> <img src="https://raw.githubusercontent.com/zeit/art/master/hyper/mark/Hyper-Mark-120@3x.png" alt="hyper" width="40" height="40"/> </a> 
+<a href="https://www.sublimetext.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="sublime" width="40" height="40"/> </a> 
+<a href="https://insomnia.rest" target="_blank"> <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="40" height="40"/> </a></p>
+
 
 ![Snake animation](https://github.com/DiogoMarques2003/DiogoMarques2003/blob/output/github-contribution-grid-snake.svg)
 

@@ -32,7 +32,7 @@
 <p align="left">
 <a href="https://devdocs.io/c/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/c.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/c-sharp.svg" alt="c#" width="40" height="40"/> </a> 
-<a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/sql.svg" alt="SQL" width="40" height="40"/> </a> 
+<a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/sql.pnh" alt="SQL" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/html-5.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/css3.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/javascript.svg" alt="javascript" width="40" height="40"/> </a> 

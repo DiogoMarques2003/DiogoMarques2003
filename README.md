@@ -41,12 +41,13 @@
 <a href="https://www.lua.org/docs.html" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/lua.svg" alt="lua" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/docs/getting-started.html" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/react.svg" alt="react.js" width="40" height="40"/> </a> 
 <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/java.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://golang.org/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/go.svg" alt="Golang" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/visual-studio-code.svg" alt="vscode" width="40" height="40"/> </a> 
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/visual-studio.svg" alt="visual studio" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
 
-<p align="left"> 
+<p align="left">
+<a href="https://nodejs.org" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/mysql.png" alt="mysql" width="70"/> </a> 
 <a href="https://firebase.google.com/?hl=pt-br" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/firebase.svg" alt="firebase" width="30"/> </a> 
 <a href="https://docs.mongodb.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/mongodb.svg" alt="mongoDB" width="70" height="40"/> </a>

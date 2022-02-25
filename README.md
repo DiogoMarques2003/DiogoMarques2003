@@ -63,5 +63,5 @@
 
 ![Snake animation](https://github.com/DiogoMarques2003/DiogoMarques2003/blob/output/github-contribution-grid-snake.svg)
 
-[instagram]: https://instagram.com/diogomarques.08.10
+[instagram]: https://instagram.com/diogomarques2003
 [discord]: https://discord.com/users/327332773108908032

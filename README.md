@@ -17,7 +17,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing.diogomarques.dev/" alt="Diogo Spotify Playing" width="350" />](https://open.spotify.com/user/21adcgopfuxifyqejpgnc7fcy)
+[<img src="https://spotify-now-playing.diogomarques.dev/" alt="Diogo Spotify Playing" width="350" />](https://open.spotify.com/user/atnl56f4mzf1ssw653mg8n399)
 
 
 ### Connect with me:

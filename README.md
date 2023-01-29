@@ -12,7 +12,7 @@
 - 👨‍ I´m 19 years old.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects and improve my front end skills
 - ⚡ Fun fact: I wanna be a billionaire so fucking bad, buy all of the things I never had...(https://youtu.be/8aRor905cCw)
 
 ### Spotify Playing 🎧

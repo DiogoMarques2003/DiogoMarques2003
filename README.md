@@ -9,7 +9,7 @@
 
 ## I'm a Developer and Gamer!!
 
-- 👨‍ I´m 19 years old.
+- 👨‍ I´m 20 years old.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects and improve my front end skills

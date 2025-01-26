@@ -9,7 +9,7 @@
 
 ## I'm a Developer and Gamer!!
 
-- 👨‍ I´m 20 years old.
+- 👨‍ I´m 21 years old.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2024 Goals: Contribute more to Open Source projects and improve my front end skills
@@ -63,5 +63,5 @@
 
 ![Snake animation](https://github.com/DiogoMarques2003/DiogoMarques2003/blob/output/github-contribution-grid-snake.svg)
 
-[instagram]: https://instagram.com/diogomarques2003
+[instagram]: https://instagram.com/diogom.0
 [discord]: https://discord.com/users/327332773108908032
